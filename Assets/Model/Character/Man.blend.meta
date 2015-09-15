@@ -1,0 +1,138 @@
+fileFormatVersion: 2
+guid: 3d5ef0da191431444a311107e90503c1
+timeCreated: 1441891102
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Beards
+    100002: Body
+    100004: Bottoms
+    100006: Cube
+    100008: Eyelashes
+    100010: Eyes
+    100012: Eyewear
+    100014: Gloves
+    100016: Hair
+    100018: //RootNode
+    100020: Moustaches
+    100022: Plane
+    100024: Shoes
+    100026: Tops
+    400000: Beards
+    400002: Body
+    400004: Bottoms
+    400006: Cube
+    400008: Eyelashes
+    400010: Eyes
+    400012: Eyewear
+    400014: Gloves
+    400016: Hair
+    400018: //RootNode
+    400020: Moustaches
+    400022: Plane
+    400024: Shoes
+    400026: Tops
+    2300000: Beards
+    2300002: Body
+    2300004: Bottoms
+    2300006: Cube
+    2300008: Eyelashes
+    2300010: Eyes
+    2300012: Eyewear
+    2300014: Gloves
+    2300016: Hair
+    2300018: Moustaches
+    2300020: Plane
+    2300022: Shoes
+    2300024: Tops
+    3300000: Beards
+    3300002: Body
+    3300004: Bottoms
+    3300006: Cube
+    3300008: Eyelashes
+    3300010: Eyes
+    3300012: Eyewear
+    3300014: Gloves
+    3300016: Hair
+    3300018: Moustaches
+    3300020: Plane
+    3300022: Shoes
+    3300024: Tops
+    4300000: Plane
+    4300002: Moustaches
+    4300004: Eyewear
+    4300006: Body
+    4300008: Hair
+    4300010: Bottoms
+    4300012: Tops
+    4300014: Beards
+    4300016: Eyelashes
+    4300018: Gloves
+    4300020: Eyes
+    4300022: Shoes
+    4300024: Cube
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
