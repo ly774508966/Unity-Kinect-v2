@@ -16,13 +16,11 @@ For current availble asset(s) inside this Git:
 
 This Git is available for public, so people can use it for learning and tutorial purpose.
 And, this Git will be updated in the future if any example(s) is ready :)
---------------------------------------------------------------------------------------------------
 
 This Git maybe contains some examples or codes that is not complete yet and will be updated as soon as it is ready.
 Anyone can participate to adding sample or tutorial or recommendation to this Git, so others can learn it to.
 
 Thank you for anyone who participated and helped me on this.
---------------------------------------------------------------------------------------------------
 
 Credit to:
 Microsoft
