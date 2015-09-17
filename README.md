@@ -10,9 +10,9 @@ For current available sample(s) inside this Git:
 
 For current availble asset(s) inside this Git:
 
-1. Characters model (Full body)(Credits to Blendswap.com)
-2. Hats (e.g. Helmet, Hats)(Credits to Blendswap.com)
-3. Shirts (Credits to Blendswap.com)
+1. Characters model (Full body)(Credit to Blendswap.com)
+2. Hats (e.g. Helmet, Hats)(Credit to Blendswap.com)
+3. Shirts (Credit to Blendswap.com)
 
 This Git is available for public, so people can use it for learning and tutorial purpose.
 And, this Git will be updated in the future if any example(s) is ready :)
