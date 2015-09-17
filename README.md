@@ -23,8 +23,8 @@ Anyone can participate to adding sample or tutorial or recommendation to this Gi
 Thank you for anyone who participated and helped me on this.
 
 Credit to:
-Microsoft
-Nugao[MSDN]
+Microsoft,
+Nugao[MSDN],
 David Kline[MSDN/MSFT]
 
 References:
